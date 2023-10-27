@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: 'Financial Wise 后台管理',
 
   /**
    * @type {boolean} true | false
